@@ -20,3 +20,10 @@ Route::get('/', function () {
 Route::get('/test/info', function () {
     return phpinfo();
 });
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
+
+Auth::routes();
+
+Route::get('/home', 'HomeController@index')->name('home');
