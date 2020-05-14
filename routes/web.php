@@ -16,7 +16,9 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('welcome');
 });
-
+Route::get('test/meta', function () {
+    return view('meta_test')
+})
 Route::get('/test/info', function () {
     return phpinfo();
 });
