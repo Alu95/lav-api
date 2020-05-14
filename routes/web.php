@@ -18,7 +18,7 @@ Route::get('/', function () {
 });
 Route::get('test/meta', function () {
     return view('meta_test');
-})
+});
 Route::get('/test/info', function () {
     return phpinfo();
 });
