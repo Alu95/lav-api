@@ -2,6 +2,17 @@
 <html>
 
 <head>
+    <style data-next-hide-fouc="true">
+        body {
+            display: none
+        }
+    </style><noscript data-next-hide-fouc="true">
+        <style>
+            body {
+                display: block
+            }
+        </style>
+    </noscript>
     <meta name="viewport" content="width=device-width" />
     <meta charSet="utf-8" />
     <title>Regione Autonoma della Sardegna - Fase 2, la Sardegna riparte. Il Presidente Solinas: atto di fiducia verso i sardi</title>
@@ -22,9 +33,8 @@ Lo prevede la nuova Ordinanza emessa dal Presidente della Regione, frutto del co
     <meta name="twitter:creator" content="@propernounco" />
     <link rel="icon" type="image/png" href="/favicon.ico" />
     <link rel="apple-touch-icon" href="/favicon.ico" />
-    <meta property="og:image" content="http://imageproxy.demo.sardegnait.it/ndg4CZJ11ddVX0g_wxekbTQ5bcG_JV3xJdymBf8hFb0/fill/1140/380/sm/1/czM6Ly9hdHRhY2hjbXNyYXMvdW5kZWZpbmVk.jpg" />
-    <meta name="twitter:image" content="http://imageproxy.demo.sardegnait.it/ndg4CZJ11ddVX0g_wxekbTQ5bcG_JV3xJdymBf8hFb0/fill/1140/380/sm/1/czM6Ly9hdHRhY2hjbXNyYXMvdW5kZWZpbmVk.jpg" />
-    <meta name="next-head-count" content="19" />
+    <meta property="og:image" content="http://imageproxy.demo.sardegnait.it/OZnfd-PibXwQVBEhzsDCHPN9QjvMR-QdjQifGr26yYk/fill/1140/380/sm/1/czM6Ly9hdHRhY2hjbXNyYXMvY21zcmFzL2ltbWFnaW5pLzIwMjAtMDUtMDQtMTQtNTEtNTktNDcyLTFfNTJfMjAyMDA0MDkxMzEzMTcuanBn.jpg" />
+    <meta name="twitter:image" content="http://imageproxy.demo.sardegnait.it/OZnfd-PibXwQVBEhzsDCHPN9QjvMR-QdjQifGr26yYk/fill/1140/380/sm/1/czM6Ly9hdHRhY2hjbXNyYXMvY21zcmFzL2ltbWFnaW5pLzIwMjAtMDUtMDQtMTQtNTEtNTktNDcyLTFfNTJfMjAyMDA0MDkxMzEzMTcuanBn.jpg" />
 </head>
 
 <body>
