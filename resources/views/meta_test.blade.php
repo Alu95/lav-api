@@ -2,17 +2,6 @@
 <html>
 
 <head>
-    <style data-next-hide-fouc="true">
-        body {
-            display: none
-        }
-    </style><noscript data-next-hide-fouc="true">
-        <style>
-            body {
-                display: block
-            }
-        </style>
-    </noscript>
     <meta name="viewport" content="width=device-width" />
     <meta charSet="utf-8" />
     <title>Regione Autonoma della Sardegna - Fase 2, la Sardegna riparte. Il Presidente Solinas: atto di fiducia verso i sardi</title>
